@@ -1,2 +1,4 @@
-# Prime-Numbers---Python-
-Prime Number generator
+Anoop Gupta
+Location: India
+Github: https://github.com/anoop-beginner
+
